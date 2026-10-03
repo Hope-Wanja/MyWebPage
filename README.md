@@ -14,8 +14,8 @@ A sleek, responsive personal portfolio webpage built with **HTML5** and **CSS3**
 
 ## Built With
 
-- **HTML5** — Semantic document structure
-- **CSS3** — Custom styling, Flexbox layout, and `@keyframes` animations
+- **HTML5** - Semantic document structure
+- **CSS3** - Custom styling, Flexbox layout, and `@keyframes` animations
 
 
 ## Getting Started Locally
